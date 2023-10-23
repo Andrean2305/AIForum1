@@ -1,6 +1,7 @@
 # AIForum1
 
-![image](https://github.com/Andrean2305/AIForum1/assets/91464375/684482d5-4b60-4543-bdc0-64951908a34e)
+<img width="194" alt="image" src="https://github.com/Andrean2305/AIForum1/assets/91464375/77e1b36f-158f-4105-b8c9-0b7cb3c51480">
+
 
 
 
